@@ -1,0 +1,60 @@
+input {
+  margin: -17px 33px 44px 2px;
+  padding: 10px;
+}
+
+.location {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin-top: 108px;
+  margin-right: 19px;
+}
+
+.city {
+  border: 1px solid #fff;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgb(0 0 0 / 30%);
+  transition: all 250ms ease-in-out;
+  color: #fff;
+  background-color: rgb(0 0 0 / 30%);
+  font-size: 20px;
+}
+
+.search {
+  border: 1px solid #fff;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgb(0 0 0 / 30%);
+  transition: all 250ms ease-in-out;
+  color: #fff;
+  background-color: rgb(0 0 0 / 30%);
+  font-size: 20px;
+}
+
+.current {
+  border: 1px solid #fff;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgb(0 0 0 / 30%);
+  transition: all 250ms ease-in-out;
+  color: #fff;
+  background-color: rgb(0 0 0 / 30%);
+  font-size: 20px;
+}
+
+.city:hover {
+  background-color: #fff;
+  transition: all 250ms ease-in-out;
+  color: black;
+}
+
+.search:hover {
+  background-color: #fff;
+  transition: all 250ms ease-in-out;
+  color: black;
+}
+
+.current:hover {
+  background-color: #fff;
+  transition: all 250ms ease-in-out;
+  color: black;
+}
